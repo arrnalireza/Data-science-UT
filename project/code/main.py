@@ -8,7 +8,7 @@ from database_connection import get_engine
 from helpers import compute_rolling_features,build_h2h_history, extract_latest_team_features
 import mlflow
 
-mlflow.set_tracking_uri("sqlite:///C:/Users/alireza/Desktop/arrn/data%20science/p/mlflow.db")
+mlflow.set_tracking_uri("sqlite:///mlflow.db")
 mlflow.set_experiment("world_cup")
 
 def load_simulation_metadata(clean_df):
