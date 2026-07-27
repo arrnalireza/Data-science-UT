@@ -354,8 +354,8 @@ The project generates:
 
 ---
 
-## video's link
-- https://drive.google.com/file/d/1O6uCy8o127O0R1e558u-qBVw6YbEHhf5/view?usp=drive_link
+## video and powerpoint link
+- https://drive.google.com/drive/folders/160EGCbBADNZWeRs_8bF7uNvG-WSRPXJa?usp=drive_link
 
 ## License
 
