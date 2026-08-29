@@ -1,0 +1,61 @@
+city_name,online_order,total_restaurants,avg_approx_cost_for_two,total_votes
+Banashankari,No,317,360.69,28890
+Banashankari,Yes,546,425.27,122683
+"Bannerghatta Road",No,604,447.80,51932
+"Bannerghatta Road",Yes,1010,455.37,192911
+Basavanagudi,No,471,403.93,61336
+Basavanagudi,Yes,794,469.58,220270
+Bellandur,No,399,566.19,70057
+Bellandur,Yes,821,543.76,285829
+"Brigade Road",No,851,892.13,274475
+"Brigade Road",Yes,916,650.93,373950
+Brookefield,No,550,570.58,78940
+Brookefield,Yes,966,493.16,192019
+BTM,No,1134,502.91,356651
+BTM,Yes,2131,491.53,626617
+"Church Street",No,931,876.10,304697
+"Church Street",Yes,888,662.84,381969
+"Electronic City",No,661,511.45,28152
+"Electronic City",Yes,564,479.96,81739
+"Frazer Town",No,467,530.73,36579
+"Frazer Town",Yes,713,576.26,246043
+HSR,No,548,471.19,90655
+HSR,Yes,1186,495.50,285646
+Indiranagar,No,778,776.57,339291
+Indiranagar,Yes,1069,566.10,432769
+Jayanagar,No,773,452.19,122787
+Jayanagar,Yes,1589,477.29,440254
+"JP Nagar",No,749,464.63,105847
+"JP Nagar",Yes,1339,457.06,288867
+"Kalyan Nagar",No,518,436.39,36537
+"Kalyan Nagar",Yes,781,508.51,139957
+Kammanahalli,No,542,425.55,35017
+Kammanahalli,Yes,777,502.12,138010
+"Koramangala 4th Block",No,960,553.96,381087
+"Koramangala 4th Block",Yes,1792,514.64,599972
+"Koramangala 5th Block",No,1037,544.83,421382
+"Koramangala 5th Block",Yes,1776,510.22,607513
+"Koramangala 6th Block",No,928,534.91,370536
+"Koramangala 6th Block",Yes,1668,513.79,596673
+"Koramangala 7th Block",No,1111,537.57,439802
+"Koramangala 7th Block",Yes,1803,509.98,614571
+"Lavelle Road",No,990,805.86,254833
+"Lavelle Road",Yes,742,683.84,327445
+Malleshwaram,No,431,703.94,90174
+Malleshwaram,Yes,663,490.83,172153
+Marathahalli,No,694,525.27,144188
+Marathahalli,Yes,952,478.52,220214
+"MG Road",No,924,845.56,317550
+"MG Road",Yes,864,676.75,402286
+"New BEL Road",No,328,428.20,49902
+"New BEL Road",Yes,409,479.46,99054
+"Old Airport Road",No,584,714.76,239856
+"Old Airport Road",Yes,806,535.61,332772
+Rajajinagar,No,529,499.11,65006
+Rajajinagar,Yes,540,472.91,133039
+"Residency Road",No,900,795.33,261102
+"Residency Road",Yes,704,676.01,325582
+"Sarjapur Road",No,470,533.96,60113
+"Sarjapur Road",Yes,776,547.04,253272
+Whitefield,No,748,610.11,123614
+Whitefield,Yes,859,552.21,212935

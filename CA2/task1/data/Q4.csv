@@ -1,0 +1,52 @@
+city_name,pricing_tier,restaurant_count,avg_rating
+Banashankari,Budget,521,3.63
+Banashankari,Mid-Range,184,3.76
+Banashankari,Premium,22,3.80
+"Bannerghatta Road",Budget,835,3.51
+"Bannerghatta Road",Mid-Range,300,3.58
+"Bannerghatta Road",Premium,82,3.96
+Basavanagudi,Budget,644,3.65
+Basavanagudi,Mid-Range,265,3.81
+Basavanagudi,Premium,69,3.89
+Bellandur,Budget,583,3.51
+Bellandur,Mid-Range,233,3.58
+Bellandur,Premium,148,4.14
+"Brigade Road",Budget,652,3.62
+"Brigade Road",Premium,467,4.03
+"Brigade Road",Mid-Range,328,3.79
+Brookefield,Budget,710,3.49
+Brookefield,Mid-Range,297,3.58
+Brookefield,Premium,142,3.91
+BTM,Budget,1525,3.59
+BTM,Mid-Range,614,3.77
+BTM,Premium,298,4.13
+"Church Street",Budget,663,3.61
+"Church Street",Premium,513,4.05
+"Church Street",Mid-Range,342,3.80
+"Electronic City",Budget,530,3.45
+"Electronic City",Mid-Range,185,3.52
+"Electronic City",Premium,111,3.66
+"Frazer Town",Budget,548,3.58
+"Frazer Town",Mid-Range,244,3.80
+"Frazer Town",Premium,162,4.04
+HSR,Budget,863,3.58
+HSR,Mid-Range,354,3.69
+HSR,Premium,117,4.15
+Indiranagar,Budget,807,3.57
+Indiranagar,Mid-Range,369,3.82
+Indiranagar,Premium,360,4.08
+Jayanagar,Budget,930,3.64
+Jayanagar,Mid-Range,348,3.78
+Jayanagar,Premium,104,4.08
+"JP Nagar",Budget,1102,3.57
+"JP Nagar",Mid-Range,395,3.68
+"JP Nagar",Premium,127,4.03
+"Kalyan Nagar",Budget,604,3.56
+"Kalyan Nagar",Mid-Range,311,3.71
+"Kalyan Nagar",Premium,83,4.05
+Kammanahalli,Budget,425,3.58
+Kammanahalli,Mid-Range,184,3.70
+Kammanahalli,Premium,43,4.04
+"Koramangala 4th Block",Budget,957,3.65
+"Koramangala 4th Block",Mid-Range,398,3.84
+"Koramangala 4th Block",Premium,115,4.16
